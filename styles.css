@@ -1,0 +1,25 @@
+.page{
+	display: flex;
+	margin: 60px 100px;
+	border: #565959 solid 2px;
+}
+.tags{
+	color: #565959
+}
+.link{
+	color: #007185;
+}
+.left-half{
+	padding: 20px 20px 40px 20px;
+}
+.right-half{
+	padding: 20px 20px 40px 30px;
+	text-align: left;
+	font: Verdana;
+	font-weight: lighter;
+	font-size: large;
+}
+.rating{
+	height: 30px;
+	width: 100px;
+}
